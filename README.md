@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning java,html and in the near future, I will learn a little of JavaScript.  
 
-- 📫 How to reach me: gabmonikx@gmail.com, but I will probably read it after 2 or more days.  
+- 📫 How to reach me: gabrielromanini04@gmail.com, but I will probably read it after 2 or more days.  
 
 # What I want
 
