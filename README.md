@@ -1,4 +1,3 @@
-<h1> who am I </h1>
 
 # Who am I
 
