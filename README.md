@@ -11,6 +11,6 @@
 
 # What I want
 
-- 💻 I am searching for a job, and I want to learn more about development and programming.  
+- 💻 I work at SG Sistemas, we create software for stores in general, but especially market's.  
 
 - 📚 I learn fast and want to learn more and more; currently, And I'm planning to create a new repository for my personal projects.  
